@@ -1,0 +1,35 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "Mean stack with Angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csurajit07335/Mean-Stack-with-Angular2.git"
+  },
+  "keywords": [
+    "Mean",
+    "stack",
+    "Angular",
+    "2",
+    "apps"
+  ],
+  "author": "Surajit Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csurajit07335/Mean-Stack-with-Angular2/issues"
+  },
+  "homepage": "https://github.com/csurajit07335/Mean-Stack-with-Angular2#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7",
+    "nodemon": "^1.15.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.1.0-beta.27"
+  }
+}
